@@ -1,4 +1,4 @@
 # Capstone2
 Histopathologic Cancer Detection
 
-Identify metastatic tissue in histopathologic scans of lymph node sections
+In this competition, you must create an algorithm to identify metastatic cancer in small image patches taken from larger digital pathology scans. 
